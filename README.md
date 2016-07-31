@@ -9,4 +9,4 @@ homebridge-plugin modified for my home
 - npm install -g ./xxxx
 
 ### homebridge-mqttlightbulb
-- https://github.com/ameeuw/homebridge-mqttlightbulb
+- https://github.com/chaeplin/homebridge-mqttlightbulb
